@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "email": "emma.latte@beanmail.com",
+    "firstName": "Emma",
+    "lastName": "Latte",
+    "hashedPassword": "6474c0428b71687ccbb33fe57bf9ac95122c96063deef1e2591fe4ea6289257e",
+    "_comment": "SecretPassword1"
+  },
+  {
+    "id": 2,
+    "email": "liam.espresso@brewmail.com",
+    "firstName": "Liam",
+    "lastName": "Espresso",
+    "hashedPassword": "2549c3112c03b019c58f2020f274097e67e855a5eb8370fd66e6785d88380fbd",
+    "_comment": "AnotherSecretPassword"
+  },
+  {
+    "id": 3,
+    "email": "olivia.mocha@coffeeco.com",
+    "firstName": "Olivia",
+    "lastName": "Mocha",
+    "hashedPassword": "0e4290f36b5cc3774806e1762b2b7831a049653cd925a9dd9d4c0f60659de3f7"
+  },
+  {
+    "id": 4,
+    "email": "noah.cappuccino@beanbuzz.com",
+    "firstName": "Noah",
+    "lastName": "Cappuccino",
+    "hashedPassword": "3100efedac3687c0085dc540c53f9a31ca75966dc2eaf080c2576d2cdd8f1c2a"
+  },
+  {
+    "id": 5,
+    "email": "ava.macchiato@roastroom.com",
+    "firstName": "Ava",
+    "lastName": "Macchiato",
+    "hashedPassword": "91fc79dd754dd57ae2cd8a6cfe1efdbf392bc728a731785b8d6000be900f8d0a"
+  },
+  {
+    "id": 6,
+    "email": "elijah.flatwhite@brewbar.com",
+    "firstName": "Elijah",
+    "lastName": "Flatwhite",
+    "hashedPassword": "c75137e50ebec71a151225444c9ed956fcbca357e1aa503016bdff64dfacd91a"
+  }
+]

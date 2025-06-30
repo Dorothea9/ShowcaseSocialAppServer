@@ -1,0 +1,110 @@
+[
+  {
+    "id": "a6e3f0d5-1c01-4d80-b0fa-6f2c321fd244",
+    "creationDate": "2025-06-25T10:18:23Z",
+    "text": "Life happens, coffee helps.",
+    "isLiked": false,
+    "userSummary": {
+      "id": "2",
+      "firstName": "Liam",
+      "lastName": "Espresso",
+      "profilePictureURLString": ""
+    }
+  },
+  {
+    "id": "fa21f684-90f4-4f5a-8892-35adf45c22b5",
+    "creationDate": "2025-06-27T04:03:19Z",
+    "text": "Good ideas start with great coffee.",
+    "isLiked": true,
+    "userSummary": {
+      "id": "5",
+      "firstName": "Ava",
+      "lastName": "Macchiato",
+      "profilePictureURLString": ""
+    }
+  },
+  {
+    "id": "4f460b82-31c7-41eb-8a67-b6f063c0c5d2",
+    "creationDate": "2025-06-18T08:21:01Z",
+    "text": "Sippin' on sunshine and coffee.",
+    "isLiked": true,
+    "userSummary": {
+      "id": "3",
+      "firstName": "Olivia",
+      "lastName": "Mocha",
+      "profilePictureURLString": ""
+    }
+  },
+  {
+    "id": "2e396b1b-fdfa-4d63-9955-2e3e4e36d547",
+    "creationDate": "2025-06-24T20:10:07Z",
+    "text": "You mocha me crazy.",
+    "isLiked": false,
+    "userSummary": {
+      "id": "4",
+      "firstName": "Noah",
+      "lastName": "Cappuccino",
+      "profilePictureURLString": ""
+    }
+  },
+  {
+    "id": "73b92a24-471e-49ec-b9cb-23e8de82f03d",
+    "creationDate": "2025-06-26T14:30:49Z",
+    "text": "Decaf? No thanks.",
+    "isLiked": true,
+    "userSummary": {
+      "id": "6",
+      "firstName": "Elijah",
+      "lastName": "Flatwhite",
+      "profilePictureURLString": ""
+    }
+  },
+  {
+    "id": "e307b9b4-2140-46cc-9d49-8cf098d346df",
+    "creationDate": "2025-06-22T16:44:38Z",
+    "text": "Coffee — because adulting is hard.",
+    "isLiked": false,
+    "userSummary": {
+      "id": "1",
+      "firstName": "Emma",
+      "lastName": "Latte",
+      "profilePictureURLString": ""
+    }
+  },
+  {
+    "id": "1b0036d9-fd7c-460d-a499-0a433cd6b88e",
+    "creationDate": "2025-06-20T22:08:09Z",
+    "text": "Latte love for you.",
+    "isLiked": true,
+    "userSummary": {
+      "id": "3",
+      "firstName": "Olivia",
+      "lastName": "Mocha",
+      "profilePictureURLString": ""
+    }
+  },
+  {
+    "id": "403d315f-45cb-4014-9c35-2cb6d0d8c5d0",
+    "creationDate": "2025-06-19T12:59:48Z",
+    "text": "Brew can do it!",
+    "isLiked": false,
+    "userSummary": {
+      "id": "5",
+      "firstName": "Ava",
+      "lastName": "Macchiato",
+      "profilePictureURLString": ""
+    }
+  },
+  {
+    "id": "fbd5ec6e-080c-404f-8910-7cf3522d7640",
+    "creationDate": "2025-06-17T08:37:12Z",
+    "text": "Adventure in life is good — consistency in coffee even better.",
+    "isLiked": true,
+    "userSummary": {
+      "id": "2",
+      "firstName": "Liam",
+      "lastName": "Espresso",
+      "profilePictureURLString": ""
+    }
+  }
+]
