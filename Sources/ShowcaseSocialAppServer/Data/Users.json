@@ -1,0 +1,58 @@
+[
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440001",
+        "email": "emma.latte@beanmail.com",
+        "firstName": "Emma",
+        "lastName": "Latte",
+        "hashedPassword": "6474c0428b71687ccbb33fe57bf9ac95122c96063deef1e2591fe4ea6289257e",
+        "_password": "SecretPassword1",
+        "joinedAt": "2025-06-25T14:32:18Z",
+        "profilePhotoUrl": "/Uploads/ProfilePhotos/550e8400-e29b-41d4-a716-446655440001_87e0c2c1-db69-41af-a2e4-a51ebd7ae146.jpg"
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440002",
+        "email": "liam.espresso@brewmail.com",
+        "firstName": "Liam",
+        "lastName": "Espresso",
+        "hashedPassword": "2549c3112c03b019c58f2020f274097e67e855a5eb8370fd66e6785d88380fbd",
+        "_password": "AnotherSecretPassword",
+        "joinedAt": "2025-06-23T09:17:42Z",
+        "profilePhotoUrl": "/Uploads/ProfilePhotos/550e8400-e29b-41d4-a716-446655440002_b6534e7b-bf11-4551-b697-95b35436a99d.jpg"
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440003",
+        "email": "olivia.mocha@coffeeco.com",
+        "firstName": "Olivia",
+        "lastName": "Mocha",
+        "hashedPassword": "0e4290f36b5cc3774806e1762b2b7831a049653cd925a9dd9d4c0f60659de3f7",
+        "joinedAt": "2025-06-27T16:45:33Z",
+        "profilePhotoUrl": "/Uploads/ProfilePhotos/550e8400-e29b-41d4-a716-446655440003_cdf777db-6113-4313-a9fb-6755a4549955.jpg"
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440004",
+        "email": "noah.cappuccino@beanbuzz.com",
+        "firstName": "Noah",
+        "lastName": "Cappuccino",
+        "hashedPassword": "3100efedac3687c0085dc540c53f9a31ca75966dc2eaf080c2576d2cdd8f1c2a",
+        "joinedAt": "2025-06-24T11:28:07Z",
+        "profilePhotoUrl": "/Uploads/ProfilePhotos/550e8400-e29b-41d4-a716-446655440004_a51f5899-2014-4ee0-8102-a8d70a9af5ff.jpg"
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440005",
+        "email": "ava.macchiato@roastroom.com",
+        "firstName": "Ava",
+        "lastName": "Macchiato",
+        "hashedPassword": "91fc79dd754dd57ae2cd8a6cfe1efdbf392bc728a731785b8d6000be900f8d0a",
+        "joinedAt": "2025-06-26T08:53:21Z",
+        "profilePhotoUrl": "/Uploads/ProfilePhotos/550e8400-e29b-41d4-a716-446655440005_4333f82c-14b4-45b1-ac59-299d0fdefe0d.jpg"
+    },
+    {
+        "id": "550e8400-e29b-41d4-a716-446655440006",
+        "email": "elijah.flatwhite@brewbar.com",
+        "firstName": "Elijah",
+        "lastName": "Flatwhite",
+        "hashedPassword": "c75137e50ebec71a151225444c9ed956fcbca357e1aa503016bdff64dfacd91a",
+        "joinedAt": "2025-06-23T19:12:54Z",
+        "profilePhotoUrl": "/Uploads/ProfilePhotos/550e8400-e29b-41d4-a716-446655440006_d7e82921-5ea4-4951-a4d5-868be5bf0f08.jpg"
+    }
+]

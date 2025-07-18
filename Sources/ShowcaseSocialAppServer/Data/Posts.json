@@ -1,0 +1,308 @@
+[
+    {
+        "id": "a6e3f0d5-1c01-4d80-b0fa-6f2c321fd244",
+        "createdAt": "2025-06-25T10:18:23Z",
+        "text": "Life happens, coffee helps.",
+        "userId": "550e8400-e29b-41d4-a716-446655440002"
+    },
+    {
+        "id": "fa21f684-90f4-4f5a-8892-35adf45c22b5",
+        "createdAt": "2025-06-27T04:03:19Z",
+        "text": "Good ideas start with great coffee.",
+        "userId": "550e8400-e29b-41d4-a716-446655440005"
+    },
+    {
+        "id": "4f460b82-31c7-41eb-8a67-b6f063c0c5d2",
+        "createdAt": "2025-06-29T08:21:01Z",
+        "text": "Sippin' on sunshine and coffee.",
+        "userId": "550e8400-e29b-41d4-a716-446655440003"
+    },
+    {
+        "id": "2e396b1b-fdfa-4d63-9955-2e3e4e36d547",
+        "createdAt": "2025-06-24T20:10:07Z",
+        "text": "You mocha me crazy.",
+        "userId": "550e8400-e29b-41d4-a716-446655440004"
+    },
+    {
+        "id": "73b92a24-471e-49ec-b9cb-23e8de82f03d",
+        "createdAt": "2025-06-26T14:30:49Z",
+        "text": "Decaf? No thanks.",
+        "userId": "550e8400-e29b-41d4-a716-446655440006"
+    },
+    {
+        "id": "e307b9b4-2140-46cc-9d49-8cf098d346df",
+        "createdAt": "2025-06-27T16:44:38Z",
+        "text": "Coffee — because adulting is hard.",
+        "userId": "550e8400-e29b-41d4-a716-446655440001"
+    },
+    {
+        "id": "1b0036d9-fd7c-460d-a499-0a433cd6b88e",
+        "createdAt": "2025-06-28T22:08:09Z",
+        "text": "Latte love for you.",
+        "userId": "550e8400-e29b-41d4-a716-446655440003"
+    },
+    {
+        "id": "403d315f-45cb-4014-9c35-2cb6d0d8c5d0",
+        "createdAt": "2025-07-01T12:59:48Z",
+        "text": "Brew can do it!",
+        "userId": "550e8400-e29b-41d4-a716-446655440005"
+    },
+    {
+        "id": "fbd5ec6e-080c-404f-8910-7cf3522d7640",
+        "createdAt": "2025-07-02T08:37:12Z",
+        "text": "Adventure in life is good — consistency in coffee even better.",
+        "userId": "550e8400-e29b-41d4-a716-446655440002"
+    },
+    {
+        "id": "b7c4d8f2-3a5e-4b9c-8d7f-1e2a3b4c5d6e",
+        "createdAt": "2025-06-28T11:22:15Z",
+        "text": "Espresso yourself!",
+        "userId": "550e8400-e29b-41d4-a716-446655440002"
+    },
+    {
+        "id": "f9e8d7c6-b5a4-9382-7164-5f4e3d2c1b0a",
+        "createdAt": "2025-06-29T07:45:33Z",
+        "text": "Stay grounded, drink coffee.",
+        "userId": "550e8400-e29b-41d4-a716-446655440001"
+    },
+    {
+        "id": "c1b2a3f4-e5d6-7890-1234-567890abcdef",
+        "createdAt": "2025-06-30T15:17:42Z",
+        "text": "Words cannot espresso how much you bean to me.",
+        "userId": "550e8400-e29b-41d4-a716-446655440004"
+    },
+    {
+        "id": "a9b8c7d6-e5f4-3210-9876-543210fedcba",
+        "createdAt": "2025-07-01T09:33:21Z",
+        "text": "But first, coffee.",
+        "userId": "550e8400-e29b-41d4-a716-446655440006"
+    },
+    {
+        "id": "d4e5f6a7-b8c9-0123-4567-89abcdef0123",
+        "createdAt": "2025-07-02T13:55:08Z",
+        "text": "Coffee is a hug in a mug.",
+        "userId": "550e8400-e29b-41d4-a716-446655440003"
+    },
+    {
+        "id": "e7f8a9b0-c1d2-3456-7890-123456789abc",
+        "createdAt": "2025-07-03T06:28:47Z",
+        "text": "Some people need a high-five. In the face. With a chair. I need coffee.",
+        "userId": "550e8400-e29b-41d4-a716-446655440005"
+    },
+    {
+        "id": "f0a1b2c3-d4e5-6789-0123-456789abcdef",
+        "createdAt": "2025-07-04T18:41:29Z",
+        "text": "Coffee: because anger management is too expensive.",
+        "userId": "550e8400-e29b-41d4-a716-446655440002"
+    },
+    {
+        "id": "b3c4d5e6-f7a8-9012-3456-789012345678",
+        "createdAt": "2025-07-05T10:14:56Z",
+        "text": "I like my coffee like I like my mornings: dark and strong.",
+        "userId": "550e8400-e29b-41d4-a716-446655440001"
+    },
+    {
+        "id": "c6d7e8f9-a0b1-2345-6789-012345678901",
+        "createdAt": "2025-07-06T14:37:13Z",
+        "text": "Thanks a latte for being brew-tiful!",
+        "userId": "550e8400-e29b-41d4-a716-446655440004"
+    },
+    {
+        "id": "d9e0f1a2-b3c4-5678-9012-345678901234",
+        "createdAt": "2025-07-07T08:52:31Z",
+        "text": "Coffee is my love language.",
+        "userId": "550e8400-e29b-41d4-a716-446655440006"
+    },
+    {
+        "id": "e2f3a4b5-c6d7-8901-2345-678901234567",
+        "createdAt": "2025-07-08T16:25:44Z",
+        "text": "Life's too short for bad coffee.",
+        "userId": "550e8400-e29b-41d4-a716-446655440003"
+    },
+    {
+        "id": "f5a6b7c8-d9e0-1234-5678-901234567890",
+        "createdAt": "2025-07-09T12:08:17Z",
+        "text": "Coffee doesn't ask questions. Coffee understands.",
+        "userId": "550e8400-e29b-41d4-a716-446655440005"
+    },
+    {
+        "id": "a8b9c0d1-e2f3-4567-8901-234567890123",
+        "createdAt": "2025-07-10T07:43:52Z",
+        "text": "May your coffee be strong and your Monday be short.",
+        "userId": "550e8400-e29b-41d4-a716-446655440002"
+    },
+    {
+        "id": "b1c2d3e4-f5a6-7890-1234-567890123456",
+        "createdAt": "2025-07-11T19:56:28Z",
+        "text": "I don't need an inspirational quote. I need coffee.",
+        "userId": "550e8400-e29b-41d4-a716-446655440001"
+    },
+    {
+        "id": "c4d5e6f7-a8b9-0123-4567-890123456789",
+        "createdAt": "2025-07-12T11:31:05Z",
+        "text": "Coffee is the common man's gold.",
+        "userId": "550e8400-e29b-41d4-a716-446655440004"
+    },
+    {
+        "id": "d7e8f9a0-b1c2-3456-7890-123456789012",
+        "createdAt": "2025-07-13T05:14:39Z",
+        "text": "Behind every successful person is a substantial amount of coffee.",
+        "userId": "550e8400-e29b-41d4-a716-446655440006"
+    },
+    {
+        "id": "e0f1a2b3-c4d5-6789-0123-456789012345",
+        "createdAt": "2025-07-14T13:47:21Z",
+        "text": "Coffee is always a good idea.",
+        "userId": "550e8400-e29b-41d4-a716-446655440003"
+    },
+    {
+        "id": "f3a4b5c6-d7e8-9012-3456-789012345678",
+        "createdAt": "2025-07-15T09:22:14Z",
+        "text": "I have measured out my life with coffee spoons.",
+        "userId": "550e8400-e29b-41d4-a716-446655440005"
+    },
+    {
+        "id": "a6b7c8d9-e0f1-2345-6789-012345678901",
+        "createdAt": "2025-07-16T06:05:48Z",
+        "text": "Coffee first. Schemes later.",
+        "userId": "550e8400-e29b-41d4-a716-446655440002"
+    },
+    {
+        "id": "b9c0d1e2-f3a4-5678-9012-345678901234",
+        "createdAt": "2025-07-16T10:38:03Z",
+        "text": "Take life one sip at a time.",
+        "userId": "550e8400-e29b-41d4-a716-446655440001"
+    },
+    {
+        "id": "c2d3e4f5-a6b7-8901-2345-678901234567",
+        "createdAt": "2025-07-15T06:51:26Z",
+        "text": "I like big cups and I cannot lie.",
+        "userId": "550e8400-e29b-41d4-a716-446655440004"
+    },
+    {
+        "id": "d5e6f7a8-b9c0-1234-5678-901234567890",
+        "createdAt": "2025-07-14T14:29:11Z",
+        "text": "Coffee: the most important meal of the day.",
+        "userId": "550e8400-e29b-41d4-a716-446655440006"
+    },
+    {
+        "id": "g1h2i3j4-k5l6-7890-1234-567890abcdef",
+        "createdAt": "2025-07-13T08:15:33Z",
+        "text": "Coffee is the fuel of champions.",
+        "userId": "550e8400-e29b-41d4-a716-446655440001"
+    },
+    {
+        "id": "h4i5j6k7-l8m9-0123-4567-890123456789",
+        "createdAt": "2025-07-12T12:42:17Z",
+        "text": "Brewing up some magic today!",
+        "userId": "550e8400-e29b-41d4-a716-446655440002"
+    },
+    {
+        "id": "i7j8k9l0-m1n2-3456-7890-123456789012",
+        "createdAt": "2025-07-11T16:27:09Z",
+        "text": "Coffee breaks are productivity breaks.",
+        "userId": "550e8400-e29b-41d4-a716-446655440003"
+    },
+    {
+        "id": "j0k1l2m3-n4o5-6789-0123-456789012345",
+        "createdAt": "2025-07-10T20:58:44Z",
+        "text": "Bean there, done that, need more coffee.",
+        "userId": "550e8400-e29b-41d4-a716-446655440004"
+    },
+    {
+        "id": "k3l4m5n6-o7p8-9012-3456-789012345678",
+        "createdAt": "2025-07-09T05:33:21Z",
+        "text": "Wake up and smell the possibilities.",
+        "userId": "550e8400-e29b-41d4-a716-446655440005"
+    },
+    {
+        "id": "l6m7n8o9-p0q1-2345-6789-012345678901",
+        "createdAt": "2025-07-08T09:11:58Z",
+        "text": "Coffee: liquid motivation in a cup.",
+        "userId": "550e8400-e29b-41d4-a716-446655440006"
+    },
+    {
+        "id": "m9n0o1p2-q3r4-5678-9012-345678901234",
+        "createdAt": "2025-07-07T13:46:35Z",
+        "text": "Steam, sip, repeat.",
+        "userId": "550e8400-e29b-41d4-a716-446655440001"
+    },
+    {
+        "id": "n2o3p4q5-r6s7-8901-2345-678901234567",
+        "createdAt": "2025-07-06T18:23:12Z",
+        "text": "Coffee shops are my happy place.",
+        "userId": "550e8400-e29b-41d4-a716-446655440002"
+    },
+    {
+        "id": "o5p6q7r8-s9t0-1234-5678-901234567890",
+        "createdAt": "2025-07-05T22:07:48Z",
+        "text": "Flat white, bright future.",
+        "userId": "550e8400-e29b-41d4-a716-446655440003"
+    },
+    {
+        "id": "p8q9r0s1-t2u3-4567-8901-234567890123",
+        "createdAt": "2025-07-04T06:52:26Z",
+        "text": "Coffee tastes better when shared with friends.",
+        "userId": "550e8400-e29b-41d4-a716-446655440004"
+    },
+    {
+        "id": "q1r2s3t4-u5v6-7890-1234-567890123456",
+        "createdAt": "2025-07-03T11:38:14Z",
+        "text": "Grinding through another beautiful day.",
+        "userId": "550e8400-e29b-41d4-a716-446655440005"
+    },
+    {
+        "id": "r4s5t6u7-v8w9-0123-4567-890123456789",
+        "createdAt": "2025-07-02T15:19:03Z",
+        "text": "Coffee: the original energy drink.",
+        "userId": "550e8400-e29b-41d4-a716-446655440006"
+    },
+    {
+        "id": "s7t8u9v0-w1x2-3456-7890-123456789012",
+        "createdAt": "2025-07-01T19:44:51Z",
+        "text": "Pour over my troubles, cup by cup.",
+        "userId": "550e8400-e29b-41d4-a716-446655440001"
+    },
+    {
+        "id": "t0u1v2w3-x4y5-6789-0123-456789012345",
+        "createdAt": "2025-07-02T07:26:39Z",
+        "text": "Coffee is my therapy session.",
+        "userId": "550e8400-e29b-41d4-a716-446655440002"
+    },
+    {
+        "id": "u3v4w5x6-y7z8-9012-3456-789012345678",
+        "createdAt": "2025-07-03T12:13:27Z",
+        "text": "Starting my day with liquid sunshine.",
+        "userId": "550e8400-e29b-41d4-a716-446655440003"
+    },
+    {
+        "id": "v6w7x8y9-z0a1-2345-6789-012345678901",
+        "createdAt": "2025-07-15T16:58:15Z",
+        "text": "Coffee connects souls across the world.",
+        "userId": "550e8400-e29b-41d4-a716-446655440004"
+    },
+    {
+        "id": "w9x0y1z2-a3b4-5678-9012-345678901234",
+        "createdAt": "2025-07-14T21:35:02Z",
+        "text": "French press freedom in every sip.",
+        "userId": "550e8400-e29b-41d4-a716-446655440005"
+    },
+    {
+        "id": "x2y3z4a5-b6c7-8901-2345-678901234567",
+        "createdAt": "2025-07-13T04:21:50Z",
+        "text": "Coffee makes everything brew-tiful.",
+        "userId": "550e8400-e29b-41d4-a716-446655440006"
+    },
+    {
+        "id": "y5z6a7b8-c9d0-1234-5678-901234567890",
+        "createdAt": "2025-07-10T10:07:38Z",
+        "text": "Cappuccino clouds on a perfect morning.",
+        "userId": "550e8400-e29b-41d4-a716-446655440001"
+    },
+    {
+        "id": "z8a9b0c1-d2e3-4567-8901-234567890123",
+        "createdAt": "2025-07-09T14:42:26Z",
+        "text": "Coffee is my co-pilot through life.",
+        "userId": "550e8400-e29b-41d4-a716-446655440002"
+    }
+]
