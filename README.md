@@ -1,12 +1,10 @@
 # Showcase Social App Server
 
-A Swift backend for my upcoming Showcase Social App - basically Twitter for people who take their coffee way too seriously.
+A Swift backend for my [Showcase Social App](https://github.com/Dorothea9/ShowcaseSocialApp) - a social app for people who take their coffee way too seriously.
 
 ## What is this?
 
 This is the server-side code for a simple social app I'm building to show off some of my Swift and SwiftUI skills. Think of it as a demo project that lets coffee addicts share their profound thoughts about lattes and existential dread in 250 characters or less :D
-
-The actual app is coming very soon :)
 
 ## What it does
 
