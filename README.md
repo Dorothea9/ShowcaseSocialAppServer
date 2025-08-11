@@ -20,8 +20,8 @@ This is the server-side code for a simple social app I'm building to show off so
 You'll need Swift and a Mac. If you don't have those, this probably isn't for you.
 
 ```bash
-git clone https://github.com/Dorothea9/ShowcaseSocialApp.git
-cd ShowcaseSocialApp
+git clone https://github.com/Dorothea9/ShowcaseSocialAppServer.git
+cd ShowcaseSocialAppServer
 swift run
 ```
 
